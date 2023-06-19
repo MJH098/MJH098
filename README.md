@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MJH</h1>
 <h3 align="center">전 풀스택 개발자 지망생입니다.</h3>
 
-- 🌱 I’m currently learning **풀스택 웹개발자**
+- 🌱 I’m currently learning **풀스택 웹개발**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
